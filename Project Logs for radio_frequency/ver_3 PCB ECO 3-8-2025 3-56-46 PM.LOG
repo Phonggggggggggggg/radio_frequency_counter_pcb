@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=C18 NewDesignator=C19
+Added Component: Designator=C18(CN-SMD-0603)
+Add component (AddParameter): Name = "Bottom"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Right"; Value = "20"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC14_1 Pin=C18-1
+Added Pin To Net: NetName=NetC14_2 Pin=C18-2
+Added Member To Class: ClassName=ver_3 Member=Component C19 104
+Added Member To Class: ClassName=ver_3 Member=Component Led_1 led_5mm
+Added Member To Class: ClassName=ver_3 Member=Component U5 STM32F103C8T6

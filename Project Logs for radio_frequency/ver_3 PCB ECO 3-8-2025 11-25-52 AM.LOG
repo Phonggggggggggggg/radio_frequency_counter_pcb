@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=PC13 Pin=U5-2
+Removed Pin From Net: NetName=PC14 Pin=U5-3
+Removed Pin From Net: NetName=PC15 Pin=U5-4
+Added Pin To Net: NetName=PC13 Pin=U5-25
+Added Pin To Net: NetName=PC14 Pin=U5-26
+Added Pin To Net: NetName=PC15 Pin=U5-27
+Added Member To Class: ClassName=ver_3 Member=Component C14 100pF
+Added Member To Class: ClassName=ver_3 Member=Component C15 1nF
+Added Member To Class: ClassName=ver_3 Member=Component R21 1K5
+Added Member To Class: ClassName=ver_3 Member=Component U3 7seg4_5461AS-1_1

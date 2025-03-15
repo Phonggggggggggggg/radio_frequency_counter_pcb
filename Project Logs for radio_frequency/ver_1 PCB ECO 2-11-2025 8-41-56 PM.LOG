@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SWDIO Pin=*4-04
+Removed Pin From Net: NetName=GND Pin=*4-05
+Added Pin To Net: NetName=GND Pin=*4-04
+Added Pin To Net: NetName=SWDIO Pin=*4-05

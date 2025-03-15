@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=PB0 Pin=U4-18
+Added Member To Class: ClassName=ver_3 Member=Component *1 button
+Added Member To Class: ClassName=ver_3 Member=Component R12 1K
+Added Member To Class: ClassName=ver_3 Member=Component R27 47K
+Added Member To Class: ClassName=ver_3 Member=Component X1 3225 8MHz

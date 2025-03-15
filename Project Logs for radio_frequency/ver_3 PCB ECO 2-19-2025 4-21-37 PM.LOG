@@ -1,0 +1,24 @@
+Added Component: Designator=Q3(tran_S8050D_J3Y)
+Added Component: Designator=Q4(tran_S8050D_J3Y)
+Added Component: Designator=Q5(tran_S8050D_J3Y)
+Added Component: Designator=Q6(tran_S8050D_J3Y)
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=3V3 Pin=Q3-2
+Added Pin To Net: NetName=DIG1 Pin=Q3-3
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=3V3 Pin=Q4-2
+Added Pin To Net: NetName=DIG2 Pin=Q4-3
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=3V3 Pin=Q5-2
+Added Pin To Net: NetName=DIG3 Pin=Q5-3
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=3V3 Pin=Q6-2
+Added Pin To Net: NetName=DIG4 Pin=Q6-3
+Added Member To Class: ClassName=ver_3 Member=Component Led_1 led_5mm
+Added Member To Class: ClassName=ver_3 Member=Component Led_2 led_5mm
+Added Member To Class: ClassName=ver_3 Member=Component Led_3 led_5mm
+Added Member To Class: ClassName=ver_3 Member=Component Led_4 led_5mm
+Added Member To Class: ClassName=ver_3 Member=Component Q3 Tran_S8050D_J3Y
+Added Member To Class: ClassName=ver_3 Member=Component Q4 Tran_S8050D_J3Y
+Added Member To Class: ClassName=ver_3 Member=Component Q5 Tran_S8050D_J3Y
+Added Member To Class: ClassName=ver_3 Member=Component Q6 Tran_S8050D_J3Y

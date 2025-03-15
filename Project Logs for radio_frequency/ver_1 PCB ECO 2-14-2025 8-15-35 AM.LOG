@@ -1,0 +1,19 @@
+Added Component: Designator=R11(RES-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net*_01 Pin=C1.1-2
+Added Pin To Net: NetName=3V3 Pin=R11-2
+Added Pin To Net: NetName=3V3 Pin=R12-2
+Added Pin To Net: NetName=9V Pin=JP1-2
+Added Net: Name=9V
+Added Pin To Net: NetName=button Pin=U4-31
+Added Net: Name=button
+Added Pin To Net: NetName=led_mode Pin=U4-30
+Added Net: Name=led_mode
+Added Pin To Net: NetName=Net*1_1 Pin=R12-1
+Added Net: Name=Net*1_1
+Added Pin To Net: NetName=Netled_4_A Pin=R11-1
+Added Net: Name=Netled_4_A
+Added Member To Class: ClassName=ver1 Member=Component R11 47K
+Added Member To Class: ClassName=ver1 Member=Component R12 47K

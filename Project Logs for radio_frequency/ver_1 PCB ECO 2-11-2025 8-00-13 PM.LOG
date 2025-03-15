@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=led_315 Pin=*1-C
+Removed Pin From Net: NetName=led_433 Pin=*2-C
+Removed Pin From Net: NetName=led_LF Pin=*3-C
+Removed Member From Class: ClassName=ver1 Member=*1
+Removed Member From Class: ClassName=ver1 Member=*2
+Removed Member From Class: ClassName=ver1 Member=*3
+Added Component: Designator=led_1(led_5mm)
+Added Component: Designator=led_2(led_5mm)
+Added Component: Designator=led_3(led_5mm)
+Added Pin To Net: NetName=led_315 Pin=led_1-C
+Added Pin To Net: NetName=led_433 Pin=led_2-C
+Added Pin To Net: NetName=led_LF Pin=led_3-C
+Added Pin To Net: NetName=Netled_1_A Pin=led_1-A
+Added Pin To Net: NetName=Netled_1_A Pin=R5-2
+Added Net: Name=Netled_1_A
+Added Pin To Net: NetName=Netled_2_A Pin=led_2-A
+Added Pin To Net: NetName=Netled_2_A Pin=R8-1
+Added Net: Name=Netled_2_A
+Added Pin To Net: NetName=Netled_3_A Pin=led_3-A
+Added Pin To Net: NetName=Netled_3_A Pin=R10-1
+Added Net: Name=Netled_3_A
+Added Member To Class: ClassName=ver1 Member=Component led_1 led_5mm
+Added Member To Class: ClassName=ver1 Member=Component led_2 led_5mm
+Added Member To Class: ClassName=ver1 Member=Component led_3 led_5mm

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=9V Pin=*-1
+Removed Pin From Net: NetName=GND Pin=*-2
+Removed Pin From Net: NetName=GND Pin=*-3
+Removed Pin From Net: NetName=SWCLK Pin=?-01
+Removed Pin From Net: NetName=GND Pin=?-02
+Removed Pin From Net: NetName=SWDIO Pin=?-03
+Removed Member From Class: ClassName=ver_3 Member=*
+Removed Member From Class: ClassName=ver_3 Member=?
+Added Component: Designator=J?(JP3x1)
+Added Component: Designator=jk?(jack dc)
+Added Pin To Net: NetName=SWCLK Pin=J?-01
+Added Pin To Net: NetName=GND Pin=J?-02
+Added Pin To Net: NetName=SWDIO Pin=J?-03
+Added Pin To Net: NetName=9V Pin=jk?-1
+Added Pin To Net: NetName=GND Pin=jk?-2
+Added Pin To Net: NetName=GND Pin=jk?-3
+Added Member To Class: ClassName=ver_3 Member=Component J? JP3x1
+Added Member To Class: ClassName=ver_3 Member=Component jk? jack dc

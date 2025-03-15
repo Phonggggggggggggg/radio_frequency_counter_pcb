@@ -1,0 +1,203 @@
+Removed Pin From Net: NetName=NRST Pin=*4-01
+Removed Pin From Net: NetName=3V3 Pin=*4-02
+Removed Pin From Net: NetName=SWCLK Pin=*4-03
+Removed Pin From Net: NetName=GND Pin=*4-04
+Removed Pin From Net: NetName=SWDIO Pin=*4-05
+Removed Pin From Net: NetName=Net*_01 Pin=*-01
+Removed Pin From Net: NetName=Net*_02 Pin=*-02
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=5V Pin=C19-2
+Removed Pin From Net: NetName=Netled_1_A Pin=led_1-A
+Removed Pin From Net: NetName=led_LF Pin=led_1-C
+Removed Pin From Net: NetName=Netled_2_A Pin=led_2-A
+Removed Pin From Net: NetName=led_433 Pin=led_2-C
+Removed Pin From Net: NetName=Netled_3_A Pin=led_3-A
+Removed Pin From Net: NetName=led_315 Pin=led_3-C
+Removed Pin From Net: NetName=Netled_4_A Pin=led_4-A
+Removed Pin From Net: NetName=led_mode Pin=led_4-C
+Removed Pin From Net: NetName=Netled_1_A Pin=R5-2
+Removed Pin From Net: NetName=Netled_2_A Pin=R8-1
+Removed Pin From Net: NetName=Netled_3_A Pin=R10-1
+Removed Pin From Net: NetName=Netled_4_A Pin=R11-1
+Removed Pin From Net: NetName=GND Pin=RX1-2
+Removed Pin From Net: NetName=GND Pin=U10-1
+Removed Pin From Net: NetName=5V Pin=U10-3
+Removed Member From Class: ClassName=ver1 Member=*4
+Removed Member From Class: ClassName=ver1 Member=C19
+Removed Member From Class: ClassName=ver1 Member=R9
+Removed Member From Class: ClassName=ver1 Member=RX1
+Removed Member From Class: ClassName=ver1 Member=SPEAKER1
+Removed Member From Class: ClassName=ver1 Member=U10
+Change Component Comment : Designator=X1 Old Comment=8MHz New Comment=3225 8MHz
+Change Component Comment : Designator=C1.2 Old Comment=10pF New Comment=10nF
+Change Component Comment : Designator=C1.1 Old Comment=10pF New Comment=100pF
+Change Component Comment : Designator=C17 Old Comment=10pF New Comment=150pF
+Change Component Comment : Designator=C5 Old Comment=10uF New Comment=100nF
+Change Component Comment : Designator=R12 Old Comment=47K New Comment=1K
+Change Component Comment : Designator=R5 Old Comment=47K New Comment=10K
+Change Component Comment : Designator=R8 Old Comment=47K New Comment=10K
+Change Component Comment : Designator=R10 Old Comment=47K New Comment=10K
+Change Component Comment : Designator=R11 Old Comment=47K New Comment=10K
+Change Component Designator: OldDesignator=C5 NewDesignator=C4
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Added Component: Designator=*5(JP5x1)
+Added Component: Designator=buzzer_1(buzzer_12mm)
+Added Component: Designator=C1(CN-SMD-0603)
+Added Component: Designator=C2(CN-SMD-0603)
+Added Component: Designator=C3(CN-SMD-0603)
+Added Component: Designator=C?(CN-SMD-0603)
+Add component (AddParameter): Name = "Bottom"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Right"; Value = "20"; VariantName = "[No Variations]"
+Added Component: Designator=Led_1(led_5mm)
+Added Component: Designator=Led_2(led_5mm)
+Added Component: Designator=Led_3(led_5mm)
+Added Component: Designator=Led_4(led_5mm)
+Added Component: Designator=Led_5(led_5mm)
+Added Component: Designator=R30(RES-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R31(RES-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RES-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R33(RES-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R34(RES-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R35(RES-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R36(RES-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R37(RES-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R38(RES-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R39(RES-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R40(RES-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R41(RES-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=U?(AMS1117-SOT223)
+Added Pin To Net: NetName=NRST Pin=*5-01
+Added Pin To Net: NetName=3V3 Pin=*5-02
+Added Pin To Net: NetName=SWCLK Pin=*5-03
+Added Pin To Net: NetName=GND Pin=*5-04
+Added Pin To Net: NetName=SWDIO Pin=*5-05
+Added Pin To Net: NetName=5V Pin=buzzer_1-P
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=9V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=9V Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=5V Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=5V Pin=C?-2
+Added Pin To Net: NetName=Netled_1_A Pin=Led_1-A
+Added Pin To Net: NetName=GND Pin=Led_1-C
+Added Pin To Net: NetName=Netled_2_A Pin=Led_2-A
+Added Pin To Net: NetName=led_LF Pin=Led_2-C
+Added Pin To Net: NetName=Netled_3_A Pin=Led_3-A
+Added Pin To Net: NetName=led_433 Pin=Led_3-C
+Added Pin To Net: NetName=Netled_4_A Pin=Led_4-A
+Added Pin To Net: NetName=led_315 Pin=Led_4-C
+Added Pin To Net: NetName=led_mode Pin=Led_5-C
+Added Pin To Net: NetName=Netled_2_A Pin=R5-2
+Added Pin To Net: NetName=Netled_3_A Pin=R8-1
+Added Pin To Net: NetName=Netled_4_A Pin=R10-1
+Added Pin To Net: NetName=Netled_1_A Pin=R?-1
+Added Pin To Net: NetName=5V Pin=R?-2
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=5V Pin=U?-2
+Added Pin To Net: NetName=5V Pin=U?-2
+Added Pin To Net: NetName=9V Pin=U?-3
+Added Pin To Net: NetName=A Pin=R34-2
+Added Net: Name=A
+Added Pin To Net: NetName=B Pin=R35-2
+Added Net: Name=B
+Added Pin To Net: NetName=C Pin=R36-2
+Added Net: Name=C
+Added Net: Name=DIG1
+Added Net: Name=DIG2
+Added Net: Name=DIG3
+Added Net: Name=DIG4
+Added Pin To Net: NetName=DP Pin=R41-2
+Added Net: Name=DP
+Added Pin To Net: NetName=D Pin=R37-2
+Added Net: Name=D
+Added Pin To Net: NetName=E Pin=R38-2
+Added Net: Name=E
+Added Pin To Net: NetName=F Pin=R39-2
+Added Net: Name=F
+Added Pin To Net: NetName=G Pin=R40-2
+Added Net: Name=G
+Added Pin To Net: NetName=Netbuzzer_1_N Pin=buzzer_1-N
+Added Pin To Net: NetName=Netbuzzer_1_N Pin=D1-1
+Added Pin To Net: NetName=Netbuzzer_1_N Pin=Q1-2
+Added Net: Name=Netbuzzer_1_N
+Added Pin To Net: NetName=NetLed_5_A Pin=Led_5-A
+Added Pin To Net: NetName=NetLed_5_A Pin=R11-1
+Added Net: Name=NetLed_5_A
+Added Pin To Net: NetName=NetQ3_1 Pin=R30-1
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ4_1 Pin=R31-1
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=NetQ5_1 Pin=R32-1
+Added Net: Name=NetQ5_1
+Added Pin To Net: NetName=NetQ6_1 Pin=R33-1
+Added Net: Name=NetQ6_1
+Added Pin To Net: NetName=PA0 Pin=R34-1
+Added Pin To Net: NetName=PA0 Pin=U4-10
+Added Net: Name=PA0
+Added Pin To Net: NetName=PA1 Pin=R39-1
+Added Pin To Net: NetName=PA1 Pin=U4-11
+Added Net: Name=PA1
+Added Pin To Net: NetName=PA2 Pin=R35-1
+Added Pin To Net: NetName=PA2 Pin=U4-12
+Added Net: Name=PA2
+Added Pin To Net: NetName=PA3 Pin=R40-1
+Added Pin To Net: NetName=PA3 Pin=U4-13
+Added Net: Name=PA3
+Added Pin To Net: NetName=PA4 Pin=R36-1
+Added Pin To Net: NetName=PA4 Pin=U4-14
+Added Net: Name=PA4
+Added Pin To Net: NetName=PA5 Pin=R41-1
+Added Pin To Net: NetName=PA5 Pin=U4-15
+Added Net: Name=PA5
+Added Pin To Net: NetName=PA6 Pin=R37-1
+Added Pin To Net: NetName=PA6 Pin=U4-16
+Added Net: Name=PA6
+Added Pin To Net: NetName=PA7 Pin=R38-1
+Added Pin To Net: NetName=PA7 Pin=U4-17
+Added Net: Name=PA7
+Added Pin To Net: NetName=PB0 Pin=R33-2
+Added Net: Name=PB0
+Added Pin To Net: NetName=PC13 Pin=R30-2
+Added Net: Name=PC13
+Added Pin To Net: NetName=PC14 Pin=R31-2
+Added Net: Name=PC14
+Added Pin To Net: NetName=PC15 Pin=R32-2
+Added Net: Name=PC15
+Change Class Name : Old Net Name=ver1 New Net Name=ver_3
+Added Member To Class: ClassName=ver_3 Member=Component *5 JP5x1
+Added Member To Class: ClassName=ver_3 Member=Component buzzer_1 buzzer_12mm
+Added Member To Class: ClassName=ver_3 Member=Component C1 10uF
+Added Member To Class: ClassName=ver_3 Member=Component C2 100nF
+Added Member To Class: ClassName=ver_3 Member=Component C3 100nF
+Added Member To Class: ClassName=ver_3 Member=Component C? 104
+Added Member To Class: ClassName=ver_3 Member=Component Led_5 led_5mm
+Added Member To Class: ClassName=ver_3 Member=Component R30 330
+Added Member To Class: ClassName=ver_3 Member=Component R31 330
+Added Member To Class: ClassName=ver_3 Member=Component R32 330
+Added Member To Class: ClassName=ver_3 Member=Component R33 330
+Added Member To Class: ClassName=ver_3 Member=Component R34 330
+Added Member To Class: ClassName=ver_3 Member=Component R35 330
+Added Member To Class: ClassName=ver_3 Member=Component R36 330
+Added Member To Class: ClassName=ver_3 Member=Component R37 330
+Added Member To Class: ClassName=ver_3 Member=Component R38 330
+Added Member To Class: ClassName=ver_3 Member=Component R39 330
+Added Member To Class: ClassName=ver_3 Member=Component R40 330
+Added Member To Class: ClassName=ver_3 Member=Component R41 330
+Added Member To Class: ClassName=ver_3 Member=Component R? 1K
+Added Member To Class: ClassName=ver_3 Member=Component U? AMS1117

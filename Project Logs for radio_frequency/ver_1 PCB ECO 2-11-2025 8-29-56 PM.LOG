@@ -1,0 +1,4 @@
+Added Component: Designator=U10(7550)
+Added Pin To Net: NetName=GND Pin=U10-1
+Added Pin To Net: NetName=5V Pin=U10-3
+Added Member To Class: ClassName=ver1 Member=Component U10 7550

@@ -1,0 +1,9 @@
+Added Component: Designator=*1(button)
+Added Component: Designator=led_4(Led 5 ly)
+Added Pin To Net: NetName=Net*1_1 Pin=*1-1
+Added Pin To Net: NetName=button Pin=*1-2
+Added Pin To Net: NetName=GND Pin=*1-4
+Added Pin To Net: NetName=Netled_4_A Pin=led_4-A
+Added Pin To Net: NetName=led_mode Pin=led_4-C
+Added Member To Class: ClassName=ver1 Member=Component *1 button
+Added Member To Class: ClassName=ver1 Member=Component led_4 led_5mm

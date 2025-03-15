@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=PF1 Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C13-2
+Removed Pin From Net: NetName=PF0 Pin=C15-1
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=PF0 Pin=X1-1
+Removed Pin From Net: NetName=GND Pin=X1-2
+Removed Pin From Net: NetName=PF1 Pin=X1-3
+Removed Pin From Net: NetName=GND Pin=X1-4
+Removed Member From Class: ClassName=ver_3 Member=C13
+Removed Member From Class: ClassName=ver_3 Member=C15
+Removed Member From Class: ClassName=ver_3 Member=X1
+Change Component Comment : Designator=R24 Old Comment=1K New Comment=1K5
+Change Component Comment : Designator=R14 Old Comment=10K New Comment=330
+Change Component Comment : Designator=R19 Old Comment=10K New Comment=330
+Change Component Comment : Designator=R20 Old Comment=10K New Comment=330
+Added Member To Class: ClassName=ver_3 Member=Component R22 330
+Added Member To Class: ClassName=ver_3 Member=Component R24 1K5
+Added Member To Class: ClassName=ver_3 Member=Component R26 47K

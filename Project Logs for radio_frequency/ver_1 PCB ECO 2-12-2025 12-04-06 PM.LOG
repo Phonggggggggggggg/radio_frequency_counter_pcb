@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetC1.1_1 Pin=C1.1-2
+Added Component: Designator=*(JP2x1)
+Added Pin To Net: NetName=NetC1.1_1 Pin=*-01
+Change Net Name : Old Net Name=NetC1.1_1 New Net Name=Net*_01
+Added Pin To Net: NetName=Net*_02 Pin=*-02
+Added Pin To Net: NetName=Net*_02 Pin=C1.1-2
+Added Net: Name=Net*_02
+Added Member To Class: ClassName=ver1 Member=Component * JP2x1

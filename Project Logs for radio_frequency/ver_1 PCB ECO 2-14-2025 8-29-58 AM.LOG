@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=JP1-1
+Removed Pin From Net: NetName=9V Pin=JP1-2
+Removed Member From Class: ClassName=ver1 Member=JP1
+Added Component: Designator=*2(jack dc)
+Added Pin To Net: NetName=9V Pin=*2-1
+Added Pin To Net: NetName=GND Pin=*2-3
+Added Member To Class: ClassName=ver1 Member=Component *2 jack dc

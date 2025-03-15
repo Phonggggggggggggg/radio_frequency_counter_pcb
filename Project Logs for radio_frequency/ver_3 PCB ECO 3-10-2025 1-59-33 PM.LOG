@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=5V Pin=U6-A9
+Removed Pin From Net: NetName=GND Pin=U6-A12
+Removed Pin From Net: NetName=5V Pin=U6-B9
+Removed Pin From Net: NetName=GND Pin=U6-B12
+Change Component Designator: OldDesignator=U5 NewDesignator=U6
+Added Component: Designator=U5(USB-TYPE-C-6-PIN-CONG)
+Added Pin To Net: NetName=5V Pin=U5-A9
+Added Pin To Net: NetName=GND Pin=U5-A12
+Added Pin To Net: NetName=5V Pin=U5-B9
+Added Pin To Net: NetName=GND Pin=U5-B12
+Added Member To Class: ClassName=ver_3 Member=Component U6 STM32F103C8T6
