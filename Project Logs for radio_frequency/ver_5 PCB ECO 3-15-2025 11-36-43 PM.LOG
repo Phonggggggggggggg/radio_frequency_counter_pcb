@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=R23 NewDesignator=R24
+Change Component Designator: OldDesignator=U5 NewDesignator=U6
+Change Component Designator: OldDesignator=U6 NewDesignator=U5
+Added Component: Designator=C2(CN-SMD-0603)
+Added Component: Designator=R23(RES-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=S1(nut_gat_3p)
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=9V Pin=C2-2
+Added Pin To Net: NetName=3V3 Pin=R23-1
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=SW Pin=R23-2
+Added Pin To Net: NetName=SW Pin=S1-2
+Added Pin To Net: NetName=SW Pin=U5-39
+Added Net: Name=SW
+Added Member To Class: ClassName=ver_3 Member=Component C2 0.1uF
+Added Member To Class: ClassName=ver_3 Member=Component C10 22uF
+Added Member To Class: ClassName=ver_3 Member=Component C11 104
+Added Member To Class: ClassName=ver_3 Member=Component C13 100pF
+Added Member To Class: ClassName=ver_3 Member=Component C15 104
+Added Member To Class: ClassName=ver_3 Member=Component C17 1nF
+Added Member To Class: ClassName=ver_3 Member=Component C18 104
+Added Member To Class: ClassName=ver_3 Member=Component D1 diode_1N4007(M7)
+Added Member To Class: ClassName=ver_3 Member=Component D3 1N4148
+Added Member To Class: ClassName=ver_3 Member=Component R24 47K
+Added Member To Class: ClassName=ver_3 Member=Component S1 nut_gat_3P
+Added Member To Class: ClassName=ver_3 Member=Component U3 7seg4_5461AS-1_1

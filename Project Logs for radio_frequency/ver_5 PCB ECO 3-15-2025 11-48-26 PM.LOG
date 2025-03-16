@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=U3 Old Footprint=7seg4_5461AS-1 New Footprint=3641BS
+Change Component Comment : Designator=U3 Old Comment=7seg4_5461AS-1_1 New Comment=3641AS
+Added Member To Class: ClassName=ver_3 Member=Component R23 1K
+Added Member To Class: ClassName=ver_3 Member=Component U6 USB-TYPE-C-6-PIN-CONG
